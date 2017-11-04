@@ -1,2 +1,2 @@
-# JavaScript-Algorithms-
-Algorithm scripts from FreeCodeCamp
+# JavaScript Algorithm-
+Algorithm scripts from FreeCodeCamp challenges
