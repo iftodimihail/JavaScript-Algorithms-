@@ -16,4 +16,4 @@ function chunkArrayInGroups(arr, size) {
 }
 chunkArrayInGroups(["a", "b", "c", "d"], 2);
 
-//Output: [[""a", "b"],[""c", "d"]]
+//Output: [[""a", "b"],[""c", "d"]] 
